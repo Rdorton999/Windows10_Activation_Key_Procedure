@@ -1,0 +1,14 @@
+How to Activate Windows 11 without product keys
+***************************************************************************************************************************************************
+Step 1: Open Start Menu then type cmd on the search bar, then right-click Command Prompt and choose Run as administrator.
+Step 2: After opening command prompt then type “slmgr.vbs /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J” to install a Windows 11 license key.
+You use the code “slmgr.vbs /skms s8.now.im” to connect to my KMS server. Then press enter.
+Then type this code “slmgr.vbs /ato“. Then Press Enter.
+
+***************************************************************************************************************************************************
+
+Note: If my KMS servers are busy, you can use new KMS servers: kms8.msguides.com
+
+slmgr.vbs /skms kms8.msguides.com
+
+slmgr.vbs /ato
